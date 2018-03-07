@@ -68,3 +68,9 @@
 添加图片 使用 \!\[ 任意文字 \]\( 图片链接 \)
 
 ![0](http://pic35.photophoto.cn/20150505/0005018554149435_b.jpg)
+超链接和图片混合
+
+[\!\[Build Status\]\(https://travis-ci.org/meolu/walden.svg?branch=master\)\]\(https://travis-ci.org/meolu/walden\)
+
+|[![Build Status](https://travis-ci.org/meolu/walden.svg?branch=master)](https://travis-ci.org/meolu/walden)
+
