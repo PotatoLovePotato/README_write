@@ -66,4 +66,4 @@
 
 ## 添加图片
 
-![walden](https://raw.github.com/meolu/Walden/master/static/screenshots/walden.gif)
+![walden](http://pic35.photophoto.cn/20150505/0005018554149435_b.jpg)
