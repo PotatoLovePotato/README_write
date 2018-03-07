@@ -60,5 +60,10 @@
 转义使用 "\\"
 
 ## 添加超链接
+
 添加超链接 使用 \[ 超链接文字 \] \( 超链接地址 \) <br>
 [百度](http://www.baidu.com)
+
+## 添加图片
+
+![walden](https://raw.github.com/meolu/Walden/master/static/screenshots/walden.gif)
