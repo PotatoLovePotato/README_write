@@ -66,4 +66,4 @@
 
 ## 添加图片
 
-![walden](http://pic35.photophoto.cn/20150505/0005018554149435_b.jpg)
+[walden](http://pic35.photophoto.cn/20150505/0005018554149435_b.jpg)
